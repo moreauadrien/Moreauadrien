@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrien</h1>
 <h3 align="center">a student in software engineering</h3>
 
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **React** and **Java**
 
 - 📫 How to reach me **moreauadrien92@gmail.com**
 
